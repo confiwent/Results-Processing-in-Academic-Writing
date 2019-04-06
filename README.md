@@ -1,4 +1,4 @@
-# Draw-Pitcure-in-Paper-
+# Draw-Pitcure-in-Academic-Writing
 Some common picture processings might be used in academic writing
 
 1. select a region in a picture, scale it and put the scaled one on the original one, just like this
